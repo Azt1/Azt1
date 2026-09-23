@@ -16,6 +16,7 @@ Meu objetivo é transformar tarefas manuais em produtos simples, úteis e confi�
 ## Projetos em destaque
 
 - **[AI Automation Lab](https://github.com/Azt1/AI-automation-lab)** — roadmap e projetos práticos de IA e automação.
+- **[ChallengeCarePlus](https://github.com/richardsanvie/ChallengeCarePlus)** — projeto acadêmico em equipe: plataforma web para reduzir faltas em consultas, com lembretes, reagendamento e gamificação.
 - **[Decodificador de Texto](https://github.com/Azt1/Alura-Challenge-Decodificador)** — desafio de JavaScript com [demonstração online](https://azt1.github.io/Alura-Challenge-Decodificador/).
 - **[Jogo da Forca](https://github.com/Azt1/Jogo-da-Forca)** — aplicação interativa desenvolvida com JavaScript.
 - **[Primeira Tela — Game of Thrones](https://github.com/Azt1/primeira-tela-GameOfThrones)** — projeto de interface web.
