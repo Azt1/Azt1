@@ -1,4 +1,4 @@
-# Olá, eu sou o Igor 👋
+# Olá, eu sou o Igor
 
 Sou desenvolvedor em formação, construindo soluções **Full Stack com foco em Inteligência Artificial e Automação**.
 
@@ -6,7 +6,7 @@ Meu objetivo é transformar tarefas manuais em produtos simples, úteis e confi�
 
 ## Em construção agora
 
-🚀 **[AI Automation Lab](https://github.com/Azt1/AI-automation-lab)** — laboratório prático onde documento minha evolução e construo projetos de IA e automação com entregas pequenas e verificáveis.
+**[AI Automation Lab](https://github.com/Azt1/AI-automation-lab)** — laboratório prático onde documento minha evolução e construo projetos de IA e automação com entregas pequenas e verificáveis.
 
 ## Tecnologias
 
