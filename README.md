@@ -24,7 +24,3 @@ Meu objetivo é transformar tarefas manuais em produtos simples, úteis e confi�
 - Documento decisões e próximos passos de cada projeto.
 - Priorizo projetos que resolvem problemas práticos.
 - Estou aberto a aprender, colaborar e receber feedback.
-
----
-
-*Building practical AI-powered automation projects, one honest iteration at a time.*
