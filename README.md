@@ -30,3 +30,4 @@ Meu objetivo é transformar tarefas manuais em produtos simples, úteis e confi�
 ## Atividades
 
 - Mantendo o perfil atualizado com melhorias pequenas e verificáveis.
+- Documentando mudanças por meio de pull requests.
