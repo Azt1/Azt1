@@ -16,8 +16,8 @@ Meu objetivo é transformar tarefas manuais em produtos simples, úteis e confi�
 ## Tecnologias
 
 
-**Base atual:** JavaScript · HTML · CSS · Git · GitHub  
-**Em evolução:** Python · FastAPI · APIs de IA · Automação de fluxos · React · SQL · Docker
+**Base atual:** Python · JavaScript · HTML · CSS · Git · GitHub  
+**Em evolução:** FastAPI · APIs de IA · Automação de fluxos · React · SQL · Docker
 
 
 ## Projetos em destaque
