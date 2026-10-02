@@ -10,7 +10,7 @@ Meu objetivo é transformar tarefas manuais em produtos simples, úteis e confi�
 ## Em construção agora
 
 
-**[AI Automation Lab](https://github.com/Azt1/ai-document-processor)**: laboratório prático onde documento minha evolução e construo projetos de IA e automação com entregas pequenas e verificáveis.
+**[AI Document processor](https://github.com/Azt1/ai-document-processor)**: laboratório prático onde documento minha evolução e construo projetos de IA e automação com entregas pequenas e verificáveis.
 
 
 ## Tecnologias
