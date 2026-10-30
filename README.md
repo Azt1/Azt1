@@ -11,3 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, estudando desenvolvimento b
 ## Tecnologias usadas nos projetos
 
 Java · Spring Boot · Maven · JUnit · C# · .NET · Python · FastAPI · SQLite · SQL · Git · GitHub
+
+## Em evolução
+
+Aprofundando o estudo de Java e Spring Boot, com foco em APIs e organização de projetos backend.
